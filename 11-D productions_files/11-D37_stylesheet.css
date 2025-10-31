@@ -1,0 +1,17 @@
+body { background-color: #ffffff; font-family: Verdana; font-size: 10px;}
+p {font-family: Verdana; font-size: 10px;color: #000000}
+td {font-family: Verdana; font-size: 10px;color: #000000}
+li {font-family: Verdana; font-size: 10px;color: #000000}
+margin-top: 17px;
+
+<!--
+BODY{
+scrollbar-face-color:bbbbbb;
+scrollbar-arrow-color:000000;
+scrollbar-track-color:#FFFFFF;
+scrollbar-shadow-color:'';
+scrollbar-highlight-color:'';
+scrollbar-3dlight-color:'000000';
+scrollbar-darkshadow-Color:'000000';
+}
+-->
